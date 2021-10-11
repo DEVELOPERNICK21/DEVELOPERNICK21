@@ -2,6 +2,7 @@
 
 <!--
 **DEVELOPERNICK21/DEVELOPERNICK21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Hey there!, I am Developer Nick.
 💻| Freelancer, Web Developer & Designer.
@@ -20,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+:bowtie:
+
