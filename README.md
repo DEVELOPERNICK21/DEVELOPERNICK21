@@ -5,8 +5,8 @@
 -->
 
 I am Developer Nick.
-💻| Freelancer, Web Developer & Designer.
-👨‍💻| UI/UX Tips and tricks in one place.
+💻| Freelancer, React native Mobile App Developer, Web Developer.
+👨‍💻| UI/UX Intereseted.
 🔥 | Helping to IMPROVE and LEARN Frontend Skills.
 
 My Personal Bio Repo
